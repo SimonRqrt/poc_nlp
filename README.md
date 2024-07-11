@@ -20,4 +20,4 @@ Utilisation de Gradio pour se concentrer sur les aspects NLP plutôt que sur le 
 Implémentation de tests pour assurer la robustesse du PoC.
 
 ## Lien vers la présentation :
-https://www.canva.com/design/DAGH__PLC5I/ftvIi4TYG2tFkArIZFe_1Q/edit?utm_content=DAGH__PLC5I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGH__PLC5I/ftvIi4TYG2tFkArIZFe_1Q/edit
